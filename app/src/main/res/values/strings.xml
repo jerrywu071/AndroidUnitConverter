@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Unit Converter (Jerry Wu)</string>
+
+    <string name="convert_button">✓</string>
+    <string name="dark_mode_text">Dark Mode</string>
+    <string name="color_switch_text">Colourful Text (Dark mode only) </string>
+    <string name="default_converted_text">0</string>
+    <string name="clear_button">CLEAR INPUTS</string>
+
+    <string-array name="mass_spinner_options">
+        <item>Kilograms to Pounds</item>
+        <item>Pounds to Kilograms</item>
+        <item>Kilograms to Ounces</item>
+        <item>Ounces to Kilograms</item>
+        <item>Pounds to Ounces</item>
+        <item>Ounces to Pounds</item>
+    </string-array>
+
+    <string-array name="distance_spinner_options">
+        <item>Kilometers to Miles</item>
+        <item>Miles to Kilometers</item>
+        <item>Kilometers to Meters</item>
+        <item>Meters to Kilometers</item>
+        <item>Miles to Feet</item>
+        <item>Feet to Miles</item>
+        <item>Meters to Feet</item>
+        <item>Feet to Meters</item>
+    </string-array>
+
+    <string-array name="speed_spinner_options">
+        <item>Km/h to Mph</item>
+        <item>Mph to Km/h</item>
+        <item>Km/h to m/s</item>
+        <item>m/s to Km/h</item>
+        <item>Mph to Fps</item>
+        <item>Fps to Mph</item>
+        <item>m/s to Fps</item>
+        <item>Fps to m/s</item>
+    </string-array>
+
+    <string-array name="temp_spinner_options">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Celsius to Kelvin</item>
+        <item>Kelvin to Celsius</item>
+        <item>Fahrenheit to Kelvin</item>
+        <item>Kelvin to Fahrenheit</item>
+    </string-array>
+
+    <string-array name="trig_spinner_options">
+        <item>Degrees to Radians</item>
+        <item>Radians to Degrees</item>
+        <item>Degrees to Gradians</item>
+        <item>Gradians to Degrees</item>
+        <item>Radians to Gradians</item>
+        <item>Gradians to Radians</item>
+    </string-array>
+</resources>
